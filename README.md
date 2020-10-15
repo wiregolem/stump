@@ -32,6 +32,6 @@ Section not yet written
 ### Contribute
 Section not yet written
 ### Licensing
-Section not yet written, copywrite assumed, see future updates to this README.md file
+Section not yet written, copyright assumed, see future updates to this README.md file
 
     
