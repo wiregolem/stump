@@ -4,7 +4,7 @@ An application for logging(hence, stump) and elusive and counfounding errors(hen
 
 A cross-platform, modual, bug tracking server/client suite
 
-# A layered application
+## A layered application
 **The Database layer**
  * An oracle database to contain the bug information and users
 **The DB interface layer**
@@ -13,7 +13,7 @@ A cross-platform, modual, bug tracking server/client suite
  * written in c++, utlizes the Boost.Asio library for TCP/IP network communication
  **The Client layer**
 
-# The clients
+## The clients
 * a cli written in c++ for interacting with the server via terminal
 * a GUI written in java for cross platform-ality on Windows, MacOS, and Linux operating systems
 * a GUI written in java for Android mobile devices
@@ -21,10 +21,17 @@ A cross-platform, modual, bug tracking server/client suite
 * a web based GUI written in python for accessing the server via webbrowser
 
 
-# Cloning
-# Installation
-# Expected behavior
-# Documentation
-# Contribute
-# Licensing
+### Cloning
+Section not yet written
+### Installation
+Section not yet written
+### Expected behavior
+Section not yet written
+### Documentation
+Section not yet written
+### Contribute
+Section not yet written
+### Licensing
+Section not yet written, copywrite assumed, see future updates to this README.md file
+
     
