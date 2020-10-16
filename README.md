@@ -1,10 +1,8 @@
 # stump
 <img src="stump.png"/>
-</br>
 
 An application for logging(hence, stump) elusive and counfounding errors(hence, stump).
-(A bug tracker)
-A cross-platform bug tracking server 
+</br>A cross-platform bug tracking server 
 
 ## A layered application
 **The Database layer**
@@ -28,7 +26,10 @@ A cross-platform bug tracking server
 ! ***CLIENT REPOS NOT YET INITIALIZED***
 
 ### Cloning
-Section not yet written
+* With git
+  * `git clone https://github.com/wiregolem/stump.git`
+* With GitHub CLI
+  * `gh repo clone wiregolem/stump`
 ### Installation
 * Linux: **Not required**, but I'm biased so here's a plug, make the switch
   * While you are free to develop on any OS that you like C++ development is easiest on linux
