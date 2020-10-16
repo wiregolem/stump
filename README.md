@@ -1,7 +1,7 @@
 # stump
 An application for logging(hence, stump) elusive and counfounding errors(hence, stump).
 (A bug tracker)
-
+<img src="stump.png"/>
 A cross-platform bug tracking server 
 
 ## A layered application
